@@ -1,0 +1,9 @@
+streamlit
+groq
+sentence-transformers
+pypdf
+python-dotenv
+rank-bm25
+numpy
+chromadb==0.4.22
+scikit-learn
