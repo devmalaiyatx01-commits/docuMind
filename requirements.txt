@@ -1,9 +1,9 @@
 streamlit
-groq
-sentence-transformers
-pypdf
-python-dotenv
+chromadb==1.5.9
+numpy==2.5.0
+sentence-transformers==5.1.0
 rank-bm25
-numpy
-chromadb==0.4.22
+pypdf
+groq
 scikit-learn
+torch
