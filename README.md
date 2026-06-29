@@ -3,7 +3,7 @@
 > A production-grade Retrieval-Augmented Generation (RAG) pipeline
 > with Semantic Chunking, Hybrid Search, Cross-Encoder Reranking, and Query Rewriting.
 
-**Live Demo:** [your-app.streamlit.app](https://your-app.streamlit.app)
+**Live Demo:** [your-app.streamlit.app](https://devmalaiyatx01-commits-documind-app-nubxyi.streamlit.app/)
 
 ---
 
